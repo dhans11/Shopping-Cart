@@ -1,4 +1,8 @@
-# Shopping Cart
+# 🚩 Project Name: Shopping Cart
+
+🙋🏻‍♂️ Project Owner: Ahmad Dani Rifai  
+🏁 Date Finished: May 2024  
+📞 Contact: [LinkedIn](https://www.linkedin.com/in/ahmad-dhani-0b8b6a22b/); [E-mail](adhani866@gmail.com)
 
 ## Overview
 
